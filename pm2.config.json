@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "RealWorld",
+      "name": "pick-apple",
       "script": "npm",
       "args": "start"
     }
